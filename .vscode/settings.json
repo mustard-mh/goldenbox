@@ -1,0 +1,5 @@
+{
+  "files.readonlyInclude": {
+    "**/*.golden.yaml": true
+  }
+}
