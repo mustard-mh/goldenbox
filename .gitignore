@@ -1,0 +1,6 @@
+# Anything with ".local" in its file name is personal / in-progress material
+# (Chinese doc mirrors, research notes, TODO) and stays out of the repository.
+*.local.*
+coverage
+dist
+.env

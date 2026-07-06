@@ -1,0 +1,9 @@
+go 1.26
+
+use (
+	.
+	./examples/bun/e2e
+	./modules/mysql
+	./modules/postgres
+	./modules/redis
+)
